@@ -1,0 +1,6 @@
+{
+  "name": "EvoluaTM",
+  "description": "Seu portal interativo para dominar o tênis de mesa. Tutoriais de postura, simulador físico de ângulos, gerenciamento de treinos e treinador inteligente por inteligência artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
